@@ -33,6 +33,14 @@ When the user deploy to Heroku, Then the user should have proper build scripts f
 
 [WEBLINK](https://priyanka-text-editor-ac950edf7cf1.herokuapp.com/)
 
+
+## DEMO
+
+
+https://github.com/priyankav89/pwa-texteditor/assets/127457597/af0bc6f1-aed2-43f2-b878-f0d2bc313506
+
+
+
 ## TESTING
 
 1. npm install - to install
