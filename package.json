@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
-    "start": "cd server && node server.js",
+    "start": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
+    "start:serv": "cd server && node server.js",
     "server": "cd server nodemon server.js --ignore client",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start"
